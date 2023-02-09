@@ -50,4 +50,4 @@ This is because the code uses a set for each group of names starting with a diff
 and the total number of sets is equal to the number of unique characters in the names. 
 Additionally, the code uses a constant amount of space for the result variable, the groupByFirstChar array, and the common set.
 
-//Note that this analysis assumes that the time and space complexity of the operations performed on sets (e.g., add, delete, has, size) is constant.*/
+//Note that this analysis assumes that the time and space complexity of the operations performed on sets (e.g., add, delete, has, size) is constant..*/
